@@ -28,7 +28,7 @@ Deployment: Streamlit Cloud
 # 🚀 Installation & Setup
 ## 1 Clone the repository:
 ```sh
-#git clone https://github.com/your-username/AI-Medical-Diagnosis.gitcd AI-Medical-Diagnosis
+git clone https://github.com/your-username/AI-Medical-Diagnosis.gitcd AI-Medical-Diagnosis
 ```
 ## 2 Install dependencies:
 ```sh
