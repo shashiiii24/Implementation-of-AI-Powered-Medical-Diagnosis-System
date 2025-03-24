@@ -17,7 +17,7 @@ Data Visualization: Matplotlib, Seaborn, Plotly
 Deployment: Streamlit Cloud
 #🚀 Installation & Setup
 1 Clone the repository:
-git clone https://github.com/your-username/AI-Medical-Diagnosis.git
+#git clone https://github.com/your-username/AI-Medical-Diagnosis.git
 cd AI-Medical-Diagnosis
 2 Install dependencies:
 pip install -r requirements.txt
